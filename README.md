@@ -1,16 +1,5 @@
 OOP Semester 2 Final Project
 Dangerous Dave 			
-Merit Maita 318338373
-Tomer Fisher 205364151
-Shahar Aviv 203489307
-
-
-
-
-
-
-
-
 
 •	Game Explanation:
 A version of the nostalgic game. Dangerous Dave goes out to seek treasure through secret rooms and tunnels. At each stage, you must collect as many diamonds as you can to accumulate more disqualifications. As well as finding the Holy Grail that will allow the door to be opened to the next stage. At your disposal, some of the stages will be equipped with a Jetpack and a gun to help you deal with all the dangers and enemies.
